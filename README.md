@@ -67,5 +67,6 @@ Technologies Used
 
   - Matplotlib and Seaborn
 
-About the Author
+About me:
+
 I'm Aishwarya Kotagiri, a student passionate about applying machine learning to solve real-world problems. This project was created to strengthen my understanding of regression, model comparison, and performance visualization.
